@@ -8,11 +8,11 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:9080
+# running in developer mode
 npm run dev
 
 # build electron application for production
-npm run build
+npm run build:pi
 
 
 ```
