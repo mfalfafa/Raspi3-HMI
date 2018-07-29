@@ -1,4 +1,4 @@
-# my-project
+# Raspi3-HMI-project
 
 > An electron-vue project
 
