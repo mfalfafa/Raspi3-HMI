@@ -5,6 +5,11 @@
 #### Build Setup
 
 ``` bash
+# Update all dependencies in package.json
+npm i -g npm-check-updates
+ncu -u
+npm install
+
 # install dependencies
 npm install
 

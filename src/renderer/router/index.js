@@ -11,6 +11,11 @@ export default new Router({
       component: require('@/components/Component1').default
     },
     {
+      path: '/downtimepage',
+      name: 'downtimepage',
+      component: require('@/components/DowntimePage').default
+    },
+    {
       path: '*',
       redirect: '/'
     }
